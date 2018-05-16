@@ -19,6 +19,7 @@
 
 ### 3. Go项目
 - [新手入门项目](https://github.com/xiaoheigou/GoGo/blob/master/eBook/1.1.md)
+- [Gin搭建blog api](https://segmentfault.com/a/1190000013297683#articleHeader0)
 - [分布式系统](https://pdos.csail.mit.edu/6.824/schedule.html)
 
 ### 4. 友情链接
