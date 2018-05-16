@@ -9,18 +9,21 @@
 ----
 
 ### 1. 学习资料
+- [社区b站教程](https://space.bilibili.com/28187952/#/)
+- [腾讯go中文开发手册](https://cloud.tencent.com/developer/doc/1101)
 
 ### 2. 算法与设计模式
-> - [算法](https://github.com/0xAX/go-algorithms)
-> - [设计模式](https://github.com/tmrts/go-patterns)
-> - [leetcode](https://github.com/aQuaYi/LeetCode-in-Go)
+- [算法](https://github.com/0xAX/go-algorithms)
+- [设计模式](https://github.com/tmrts/go-patterns)
+- [leetcode](https://github.com/aQuaYi/LeetCode-in-Go)
 
 ### 3. Go项目
 - [新手入门项目](https://github.com/xiaoheigou/GoGo/blob/master/eBook/1.1.md)
-- [分布式系统]()
+- [分布式系统](https://pdos.csail.mit.edu/6.824/schedule.html)
+
 ### 4. 友情链接
 - [gocn每日新闻](https://gocn.io/topic/%E6%AF%8F%E6%97%A5%E6%96%B0%E9%97%BB)
-- 分布式系统
+- [分布式系统](https://pdos.csail.mit.edu/6.824/schedule.html)
 
 加入我们
 -------------------------------
