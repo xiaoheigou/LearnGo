@@ -8,19 +8,20 @@
 
 ----
 
-GoGo社区，主要包含社区教程和项目。
-### 1. 新手礼包
+Go社区，主要包含教程和项目。
+### 1. 学习资料
 
 ### 2. 算法与设计模式
 > - [算法](https://github.com/0xAX/go-algorithms)
 > - [设计模式](https://github.com/tmrts/go-patterns)
 > - [leetcode](https://github.com/aQuaYi/LeetCode-in-Go)
 
-### 4. Go项目
+### 3. Go项目
 - 分布式系统
-### 5. 友情链接
+### 4. 友情链接
 - [gocn每日新闻](https://gocn.io/topic/%E6%AF%8F%E6%97%A5%E6%96%B0%E9%97%BB)
 - 分布式系统
+
 加入我们
 -------------------------------
 
