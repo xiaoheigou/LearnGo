@@ -9,13 +9,14 @@
 ----
 Hello guys, I am a Gofan ,an endless active learner. I embrace challenges beyond my current abilities to explore the Code world. 
 
-**This is a Go community** I tried[bilibili](https://space.bilibili.com/28187952/#/),which you can find some distribute system videos and go syntax tutorial.
+**This is a Go community** I tried [bilibili](https://space.bilibili.com/28187952/#/) ,which you can find some distribute system videos and go syntax tutorial.
 
 **Make friends** I also want to make friends with you,lets learn go and code some func project together. You can find some resources below. If you think this is good ,welcome to our qq group 497429420 .  You can also contribute to this project var recording some video or writing some articles ,please make an issue or pull request.
 
 ### 1. 学习资料
 - [社区b站教程](https://space.bilibili.com/28187952/#/)
 - [腾讯go中文开发手册](https://cloud.tencent.com/developer/doc/1101)
+- [Coreos工程师的go tutorial](https://github.com/gyuho/learn/blob/master/README.md#contents)
 
 ### 2. 算法与设计模式
 - [算法](https://github.com/0xAX/go-algorithms)
